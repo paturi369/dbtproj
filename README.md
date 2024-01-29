@@ -1,0 +1,2 @@
+# dbtproj
+dbt new project
